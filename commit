@@ -1,0 +1,5 @@
+Z<- matrix(z(,8,9,10),2,2)
+
+Z1 <- makeCacheMatrix(Z) cacheSolve(Z1)
+
+cacheSolve(Z1)
